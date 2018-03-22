@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 22:51:13 2018
-
-@author: sunda
-"""
-
 CREATE TABLE nodes (
     id INTEGER NOT NULL,
     lat REAL,
