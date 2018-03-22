@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 22:53:05 2018
-
-@author: sunda
-"""
-
 import audit
 
 import csv
