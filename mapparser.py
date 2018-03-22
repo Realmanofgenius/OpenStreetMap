@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Mar 21 16:50:38 2018
-
-@author: sunda
-"""
-
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
