@@ -1,0 +1,2079 @@
+id,key,value,type
+113010925,highway,turning_circle,regular
+113021893,highway,traffic_signals,regular
+113021893,traffic_signals,signal,regular
+113025886,highway,turning_circle,regular
+113041591,highway,turning_circle,regular
+113060596,barrier,gate,regular
+113063475,highway,traffic_signals,regular
+113063475,traffic_signals,signal,regular
+113065976,highway,turning_circle,regular
+113075010,highway,traffic_signals,regular
+113075010,traffic_signals,signal,regular
+113075016,highway,traffic_signals,regular
+113075016,traffic_signals,signal,regular
+113090158,highway,traffic_signals,regular
+113090158,traffic_signals,signal,regular
+113091560,highway,turning_circle,regular
+113094835,highway,traffic_signals,regular
+113094835,traffic_signals,signal,regular
+113098599,highway,traffic_signals,regular
+113098599,traffic_signals,signal,regular
+113109385,highway,turning_circle,regular
+113112966,highway,turning_circle,regular
+113113160,highway,turning_circle,regular
+113114178,highway,traffic_signals,regular
+113114178,traffic_signals,signal,regular
+113116490,highway,traffic_signals,regular
+113116490,traffic_signals,signal,regular
+113130001,highway,traffic_signals,regular
+113130001,traffic_signals,signal,regular
+113132352,highway,traffic_signals,regular
+113132352,traffic_signals,signal,regular
+113138734,highway,turning_circle,regular
+113139589,highway,turning_circle,regular
+113142909,highway,turning_circle,regular
+113145628,highway,turning_circle,regular
+113154623,highway,traffic_signals,regular
+113154623,traffic_signals,signal,regular
+113154630,highway,traffic_signals,regular
+113154630,traffic_signals,signal,regular
+113154640,highway,traffic_signals,regular
+113154640,traffic_signals,signal,regular
+113154688,highway,traffic_signals,regular
+113154688,traffic_signals,signal,regular
+113163109,highway,traffic_signals,regular
+113163109,traffic_signals,signal,regular
+113163704,highway,turning_circle,regular
+113172564,highway,traffic_signals,regular
+113172564,traffic_signals,signal,regular
+113175797,highway,turning_circle,regular
+113177156,highway,turning_circle,regular
+113185231,highway,turning_circle,regular
+113187445,highway,turning_circle,regular
+113190401,highway,turning_circle,regular
+113208578,highway,turning_circle,regular
+113208814,highway,turning_circle,regular
+113212300,railway,level_crossing,regular
+113215256,highway,turning_circle,regular
+113232642,highway,turning_circle,regular
+113233985,railway,level_crossing,regular
+113234001,railway,level_crossing,regular
+113234005,railway,level_crossing,regular
+113234011,railway,level_crossing,regular
+113234198,highway,turning_circle,regular
+113234612,highway,turning_circle,regular
+153374046,created_by,JOSM,regular
+157597528,ele,4,regular
+157597528,gnis:Class,Populated Place,regular
+157597528,gnis:County,Horry,regular
+157597528,gnis:County_num,051,regular
+157597528,id,1244029,gnis
+157597528,gnis:ST_alpha,SC,regular
+157597528,gnis:ST_num,45,regular
+157597528,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+157597528,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+157597528,name,Yaupon Circle,regular
+157597528,place,neighbourhood,regular
+157644226,ele,6,regular
+157644226,gnis:Class,Populated Place,regular
+157644226,gnis:County,Horry,regular
+157644226,gnis:County_num,051,regular
+157644226,id,1243956,gnis
+157644226,gnis:ST_alpha,SC,regular
+157644226,gnis:ST_num,45,regular
+157644226,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+157644226,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+157644226,name,Seaview Place,regular
+157644226,place,neighbourhood,regular
+158254032,ele,7,regular
+158254032,gnis:Class,Populated Place,regular
+158254032,gnis:County,Horry,regular
+158254032,gnis:County_num,051,regular
+158254032,id,1243879,gnis
+158254032,gnis:ST_alpha,SC,regular
+158254032,gnis:ST_num,45,regular
+158254032,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158254032,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158254032,name,Owens,regular
+158254032,place,neighbourhood,regular
+158264823,ele,6,regular
+158264823,gnis:Class,Populated Place,regular
+158264823,gnis:County,Horry,regular
+158264823,gnis:County_num,051,regular
+158264823,id,1226860,gnis
+158264823,gnis:ST_alpha,SC,regular
+158264823,gnis:ST_num,45,regular
+158264823,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158264823,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158264823,name,Stalvey,regular
+158264823,place,hamlet,regular
+158289497,ele,6,regular
+158289497,gnis:Class,Populated Place,regular
+158289497,gnis:County,Horry,regular
+158289497,gnis:County_num,051,regular
+158289497,id,1243786,gnis
+158289497,gnis:ST_alpha,SC,regular
+158289497,gnis:ST_num,45,regular
+158289497,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158289497,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158289497,name,Hurl Rocks,regular
+158289497,place,hamlet,regular
+158306949,ele,4,regular
+158306949,gnis:Class,Populated Place,regular
+158306949,gnis:County,Horry,regular
+158306949,gnis:County_num,051,regular
+158306949,id,1243889,gnis
+158306949,gnis:ST_alpha,SC,regular
+158306949,gnis:ST_num,45,regular
+158306949,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158306949,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158306949,name,Pebble Beach,regular
+158306949,place,hamlet,regular
+158306984,ele,9,regular
+158306984,gnis:Class,Populated Place,regular
+158306984,gnis:County,Horry,regular
+158306984,gnis:County_num,051,regular
+158306984,id,1244017,gnis
+158306984,gnis:ST_alpha,SC,regular
+158306984,gnis:ST_num,45,regular
+158306984,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158306984,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158306984,name,Washington Park,regular
+158306984,place,neighbourhood,regular
+158337890,ele,8,regular
+158337890,gnis:Class,Populated Place,regular
+158337890,gnis:County,Horry,regular
+158337890,gnis:County_num,051,regular
+158337890,id,1243700,gnis
+158337890,gnis:ST_alpha,SC,regular
+158337890,gnis:ST_num,45,regular
+158337890,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158337890,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158337890,name,East Chester,regular
+158337890,place,neighbourhood,regular
+158345170,ele,8,regular
+158345170,gnis:Class,Populated Place,regular
+158345170,gnis:County,Horry,regular
+158345170,gnis:County_num,051,regular
+158345170,id,1243682,gnis
+158345170,gnis:ST_alpha,SC,regular
+158345170,gnis:ST_num,45,regular
+158345170,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158345170,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158345170,name,Crystal Lake,regular
+158345170,place,neighbourhood,regular
+158412671,ele,8,regular
+158412671,gnis:Class,Populated Place,regular
+158412671,gnis:County,Horry,regular
+158412671,gnis:County_num,051,regular
+158412671,id,1244027,gnis
+158412671,gnis:ST_alpha,SC,regular
+158412671,gnis:ST_num,45,regular
+158412671,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158412671,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158412671,name,Seagate Village,regular
+158412671,place,neighbourhood,regular
+158437170,ele,7,regular
+158437170,gnis:Class,Populated Place,regular
+158437170,gnis:County,Horry,regular
+158437170,gnis:County_num,051,regular
+158437170,id,1243929,gnis
+158437170,gnis:ST_alpha,SC,regular
+158437170,gnis:ST_num,45,regular
+158437170,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158437170,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158437170,name,Racepath,regular
+158437170,place,neighbourhood,regular
+158516224,ele,8,regular
+158516224,gnis:Class,Populated Place,regular
+158516224,gnis:County,Horry,regular
+158516224,gnis:County_num,051,regular
+158516224,id,1243849,gnis
+158516224,gnis:ST_alpha,SC,regular
+158516224,gnis:ST_num,45,regular
+158516224,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158516224,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158516224,name,Ramsey Acres,regular
+158516224,place,neighbourhood,regular
+158541002,ele,6,regular
+158541002,gnis:Class,Populated Place,regular
+158541002,gnis:County,Horry,regular
+158541002,gnis:County_num,051,regular
+158541002,id,1243691,gnis
+158541002,gnis:ST_alpha,SC,regular
+158541002,gnis:ST_num,45,regular
+158541002,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158541002,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158541002,name,Dogwood,regular
+158541002,place,neighbourhood,regular
+158572139,ele,6,regular
+158572139,gnis:Class,Populated Place,regular
+158572139,gnis:County,Horry,regular
+158572139,gnis:County_num,051,regular
+158572139,id,1244026,gnis
+158572139,gnis:ST_alpha,SC,regular
+158572139,gnis:ST_num,45,regular
+158572139,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158572139,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158572139,name,Withers Heights,regular
+158572139,place,hamlet,regular
+158587811,ele,7,regular
+158587811,gnis:Class,Populated Place,regular
+158587811,gnis:County,Horry,regular
+158587811,gnis:County_num,051,regular
+158587811,id,1243952,gnis
+158587811,gnis:ST_alpha,SC,regular
+158587811,gnis:ST_num,45,regular
+158587811,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158587811,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158587811,name,Scott Acres,regular
+158587811,place,neighbourhood,regular
+158633954,ele,4,regular
+158633954,gnis:Class,Populated Place,regular
+158633954,gnis:County,Horry,regular
+158633954,gnis:County_num,051,regular
+158633954,id,1243972,gnis
+158633954,gnis:ST_alpha,SC,regular
+158633954,gnis:ST_num,45,regular
+158633954,import_uuid,bb7269ee-502a-5391-8056-e3ce0e66489c,regular
+158633954,is_in,"Horry,South Carolina,S.C.,SC,USA",regular
+158633954,name,Springmaid Beach,regular
+158633954,place,suburb,regular
+158633954,wikidata,Q7581156,regular
+256465279,highway,traffic_signals,regular
+256465279,traffic_signals,signal,regular
+262882984,created_by,JOSM,regular
+262882995,created_by,JOSM,regular
+262883001,created_by,JOSM,regular
+262883032,created_by,JOSM,regular
+262883034,created_by,JOSM,regular
+262883039,created_by,JOSM,regular
+262883126,created_by,JOSM,regular
+262883147,created_by,JOSM,regular
+266716676,highway,traffic_signals,regular
+269450144,created_by,JOSM,regular
+269450145,created_by,JOSM,regular
+269450147,created_by,JOSM,regular
+269450150,created_by,JOSM,regular
+269450151,created_by,JOSM,regular
+269450152,created_by,JOSM,regular
+269450153,created_by,JOSM,regular
+269450154,created_by,JOSM,regular
+269450155,created_by,JOSM,regular
+269450156,created_by,JOSM,regular
+269450157,created_by,JOSM,regular
+269450158,created_by,JOSM,regular
+269450159,created_by,JOSM,regular
+269450160,created_by,JOSM,regular
+269450161,created_by,JOSM,regular
+269450162,created_by,JOSM,regular
+269450164,created_by,JOSM,regular
+269450166,created_by,JOSM,regular
+269450169,created_by,JOSM,regular
+269604458,highway,traffic_signals,regular
+269604458,traffic_signals,signal,regular
+269604459,highway,traffic_signals,regular
+269604459,traffic_signals,signal,regular
+269604463,highway,traffic_signals,regular
+269604463,traffic_signals,signal,regular
+269604474,highway,traffic_signals,regular
+269604474,traffic_signals,signal,regular
+269604505,created_by,JOSM,regular
+269604527,created_by,JOSM,regular
+269604530,created_by,JOSM,regular
+269604582,created_by,JOSM,regular
+269604588,created_by,JOSM,regular
+269604590,created_by,JOSM,regular
+269604592,created_by,JOSM,regular
+269604593,created_by,JOSM,regular
+269604594,created_by,JOSM,regular
+269604595,created_by,JOSM,regular
+269604596,created_by,JOSM,regular
+269604597,created_by,JOSM,regular
+269604601,created_by,JOSM,regular
+269604604,created_by,JOSM,regular
+269604612,created_by,JOSM,regular
+269604617,created_by,JOSM,regular
+269604621,created_by,JOSM,regular
+269604627,created_by,JOSM,regular
+269604631,created_by,JOSM,regular
+269604637,created_by,JOSM,regular
+269604640,created_by,JOSM,regular
+269604641,created_by,JOSM,regular
+269604642,created_by,JOSM,regular
+269604645,created_by,JOSM,regular
+269604649,created_by,JOSM,regular
+269604652,created_by,JOSM,regular
+269604654,created_by,JOSM,regular
+269604656,created_by,JOSM,regular
+269604666,highway,traffic_signals,regular
+269604666,traffic_signals,signal,regular
+269604678,created_by,JOSM,regular
+269604724,created_by,JOSM,regular
+269604725,highway,turning_circle,regular
+269604730,created_by,JOSM,regular
+269604731,created_by,JOSM,regular
+269604732,created_by,JOSM,regular
+269604733,created_by,JOSM,regular
+269604734,created_by,JOSM,regular
+269604737,created_by,JOSM,regular
+269604745,highway,traffic_signals,regular
+269604745,traffic_signals,signal,regular
+269604749,highway,traffic_signals,regular
+269604749,traffic_signals,signal,regular
+269604771,created_by,JOSM,regular
+269604791,created_by,JOSM,regular
+269604890,created_by,JOSM,regular
+269604891,created_by,JOSM,regular
+272445888,created_by,JOSM,regular
+272445890,created_by,JOSM,regular
+272445892,created_by,JOSM,regular
+272445893,created_by,JOSM,regular
+272445894,created_by,JOSM,regular
+272445898,created_by,JOSM,regular
+272445901,created_by,JOSM,regular
+272445904,created_by,JOSM,regular
+272445907,created_by,JOSM,regular
+272445909,created_by,JOSM,regular
+272445913,created_by,JOSM,regular
+272445915,created_by,JOSM,regular
+272445918,created_by,JOSM,regular
+272445921,created_by,JOSM,regular
+272445924,created_by,JOSM,regular
+272445927,created_by,JOSM,regular
+272445930,created_by,JOSM,regular
+272445934,created_by,JOSM,regular
+272445937,created_by,JOSM,regular
+272445940,created_by,JOSM,regular
+272445941,created_by,JOSM,regular
+272445947,created_by,JOSM,regular
+272445951,created_by,JOSM,regular
+272445952,created_by,JOSM,regular
+272445955,created_by,JOSM,regular
+272445957,created_by,JOSM,regular
+272445958,created_by,JOSM,regular
+272445959,created_by,JOSM,regular
+272445963,created_by,JOSM,regular
+272445964,created_by,JOSM,regular
+272445966,created_by,JOSM,regular
+272445969,created_by,JOSM,regular
+272445971,created_by,JOSM,regular
+272445973,created_by,JOSM,regular
+272445976,created_by,JOSM,regular
+272445979,created_by,JOSM,regular
+272445981,created_by,JOSM,regular
+272445988,created_by,JOSM,regular
+272445989,created_by,JOSM,regular
+272445990,created_by,JOSM,regular
+272445991,created_by,JOSM,regular
+272445993,created_by,JOSM,regular
+272445994,created_by,JOSM,regular
+272445995,created_by,JOSM,regular
+272445997,created_by,JOSM,regular
+272445998,created_by,JOSM,regular
+272446001,created_by,JOSM,regular
+272446004,created_by,JOSM,regular
+272446008,created_by,JOSM,regular
+272446011,created_by,JOSM,regular
+272446014,created_by,JOSM,regular
+272446017,created_by,JOSM,regular
+272446038,created_by,JOSM,regular
+272446041,created_by,JOSM,regular
+272446044,created_by,JOSM,regular
+272446046,created_by,JOSM,regular
+272446047,created_by,JOSM,regular
+272446049,created_by,JOSM,regular
+272446050,created_by,JOSM,regular
+272446051,created_by,JOSM,regular
+272446052,created_by,JOSM,regular
+272446053,created_by,JOSM,regular
+272446054,created_by,JOSM,regular
+272446055,created_by,JOSM,regular
+272446057,created_by,JOSM,regular
+272446058,created_by,JOSM,regular
+279674510,created_by,JOSM,regular
+279674525,created_by,JOSM,regular
+279674643,created_by,JOSM,regular
+279674644,created_by,JOSM,regular
+279674647,created_by,JOSM,regular
+279674648,created_by,JOSM,regular
+279674649,created_by,JOSM,regular
+279674650,created_by,JOSM,regular
+279674652,created_by,JOSM,regular
+279674653,created_by,JOSM,regular
+279674672,created_by,JOSM,regular
+279674675,created_by,JOSM,regular
+279674677,created_by,JOSM,regular
+279674680,created_by,JOSM,regular
+279674682,created_by,JOSM,regular
+279674683,created_by,JOSM,regular
+279674690,created_by,JOSM,regular
+279674736,created_by,JOSM,regular
+279674738,created_by,JOSM,regular
+279674740,created_by,JOSM,regular
+279674743,created_by,JOSM,regular
+279674788,highway,turning_circle,regular
+279674789,created_by,JOSM,regular
+279674790,highway,turning_circle,regular
+279674791,created_by,JOSM,regular
+279675042,created_by,JOSM,regular
+279675043,highway,turning_circle,regular
+279675048,created_by,JOSM,regular
+279675049,created_by,JOSM,regular
+279675050,created_by,JOSM,regular
+279675051,created_by,JOSM,regular
+279675052,created_by,JOSM,regular
+357113182,amenity,school,regular
+357113182,ele,8,regular
+357113182,county_id,051,gnis
+357113182,created,06/01/1994,gnis
+357113182,feature_id,1243636,gnis
+357113182,state_id,45,gnis
+357113182,name,Carver School,regular
+357113218,amenity,place_of_worship,regular
+357113218,ele,8,regular
+357113218,county_id,051,gnis
+357113218,created,06/01/1994,gnis
+357113218,feature_id,1243651,gnis
+357113218,state_id,45,gnis
+357113218,name,Church of the Nazarene,regular
+357113218,religion,christian,regular
+357113340,city,Myrtle Beach,addr
+357113340,housenumber,500,addr
+357113340,postcode,29577,addr
+357113340,street,4th Avenue North,addr
+357113340,amenity,place_of_worship,regular
+357113340,denomination,baptist,regular
+357113340,feature_id,1243713,gnis
+357113340,name,First Baptist Church of Inglis,regular
+357113340,phone,843-448-3155,regular
+357113340,religion,christian,regular
+357113340,website,http://www.fbcmb.com/,regular
+357113352,amenity,place_of_worship,regular
+357113352,ele,9,regular
+357113352,county_id,051,gnis
+357113352,created,06/01/1994,gnis
+357113352,feature_id,1243718,gnis
+357113352,state_id,45,gnis
+357113352,name,First Presbyterian Church,regular
+357113352,religion,christian,regular
+357113353,amenity,place_of_worship,regular
+357113353,denomination,methodist,regular
+357113353,ele,9,regular
+357113353,county_id,051,gnis
+357113353,created,06/01/1994,gnis
+357113353,feature_id,1243719,gnis
+357113353,state_id,45,gnis
+357113353,name,First United Methodist Church,regular
+357113353,religion,christian,regular
+357113370,amenity,place_of_worship,regular
+357113370,denomination,baptist,regular
+357113370,ele,5,regular
+357113370,county_id,051,gnis
+357113370,created,06/01/1994,gnis
+357113370,feature_id,1243732,gnis
+357113370,state_id,45,gnis
+357113370,name,Friendship Baptist Church,regular
+357113370,religion,christian,regular
+357113418,amenity,place_of_worship,regular
+357113418,ele,7,regular
+357113418,county_id,051,gnis
+357113418,created,06/01/1994,gnis
+357113418,feature_id,1243800,gnis
+357113418,state_id,45,gnis
+357113418,name,Kingway Pentecostal Holiness Church,regular
+357113418,religion,christian,regular
+357113436,amenity,place_of_worship,regular
+357113436,ele,8,regular
+357113436,county_id,051,gnis
+357113436,created,06/01/1994,gnis
+357113436,feature_id,1243827,gnis
+357113436,state_id,45,gnis
+357113436,name,Midway Church,regular
+357113436,religion,christian,regular
+357113487,amenity,place_of_worship,regular
+357113487,ele,9,regular
+357113487,county_id,051,gnis
+357113487,created,06/01/1994,gnis
+357113487,feature_id,1243912,gnis
+357113487,state_id,45,gnis
+357113487,name,Pleasant Hill Church,regular
+357113487,religion,christian,regular
+357113540,amenity,place_of_worship,regular
+357113540,ele,10,regular
+357113540,county_id,051,gnis
+357113540,created,06/01/1994,gnis
+357113540,feature_id,1243999,gnis
+357113540,state_id,45,gnis
+357113540,name,Trinity Episcopal Church,regular
+357113540,religion,christian,regular
+357113556,amenity,school,regular
+357113556,ele,7,regular
+357113556,county_id,051,gnis
+357113556,created,06/01/1994,gnis
+357113556,feature_id,1244028,gnis
+357113556,state_id,45,gnis
+357113556,name,Horry Georgetown Technical College Grand Strand Building 200,regular
+357121311,ele,4,regular
+357121311,county_id,051,gnis
+357121311,created,07/13/1980,gnis
+357121311,feature_id,1251484,gnis
+357121311,state_id,45,gnis
+357121311,name,Withers Swash,regular
+357121311,natural,beach,regular
+357122452,ele,7,regular
+357122452,county_id,051,gnis
+357122452,created,07/01/1994,gnis
+357122452,feature_id,1252391,gnis
+357122452,state_id,45,gnis
+357122452,man_made,tower,regular
+357122452,name,WKZQ-AM (Myrtle Beach),regular
+357124120,amenity,school,regular
+357124120,ele,6,regular
+357124120,county_id,051,gnis
+357124120,created,10/14/2008,gnis
+357124120,feature_id,2486441,gnis
+357124120,state_id,45,gnis
+357124120,name,Kiddie College,regular
+357125280,amenity,place_of_worship,regular
+357125280,ele,7,regular
+357125280,county_id,051,gnis
+357125280,created,10/10/2008,gnis
+357125280,feature_id,2490260,gnis
+357125280,state_id,45,gnis
+357125280,name,Myrtle Beach Bible Baptist Church,regular
+357125280,religion,christian,regular
+367805390,state,SC,addr
+367805390,amenity,fire_station,regular
+367805390,ele,8,regular
+367805390,county_name,Horry,gnis
+367805390,feature_id,2368142,gnis
+367805390,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367805390,reviewed,no,gnis
+367805390,name,Myrtle Beach Fire Department Station 3,regular
+367805390,source,USGS Geonames,regular
+367805436,state,SC,addr
+367805436,amenity,fire_station,regular
+367805436,ele,8,regular
+367805436,county_name,Horry,gnis
+367805436,feature_id,2368190,gnis
+367805436,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367805436,reviewed,no,gnis
+367805436,name,Horry County Fire / Rescue Station 36 South Myrtle,regular
+367805436,source,USGS Geonames,regular
+367805635,state,SC,addr
+367805635,amenity,fire_station,regular
+367805635,ele,8,regular
+367805635,county_name,Horry,gnis
+367805635,feature_id,2368343,gnis
+367805635,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367805635,reviewed,no,gnis
+367805635,name,Myrtle Beach Airport Fire Station,regular
+367805635,source,USGS Geonames,regular
+367805814,state,SC,addr
+367805814,amenity,fire_station,regular
+367805814,ele,6,regular
+367805814,county_name,Horry,gnis
+367805814,feature_id,2368428,gnis
+367805814,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367805814,reviewed,no,gnis
+367805814,name,Myrtle Beach Fire Department Station 4,regular
+367805814,source,USGS Geonames,regular
+367805838,state,SC,addr
+367805838,amenity,fire_station,regular
+367805838,ele,8,regular
+367805838,county_name,Horry,gnis
+367805838,feature_id,2368451,gnis
+367805838,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367805838,reviewed,no,gnis
+367805838,name,Horry County Fire / Rescue Station 30 Myrtle Beach,regular
+367805838,source,USGS Geonames,regular
+367806921,state,SC,addr
+367806921,amenity,police,regular
+367806921,ele,7,regular
+367806921,county_name,Horry,gnis
+367806921,feature_id,2334857,gnis
+367806921,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367806921,reviewed,no,gnis
+367806921,name,Myrtle Beach Airport Police,regular
+367806921,source,USGS Geonames,regular
+367807030,state,SC,addr
+367807030,amenity,police,regular
+367807030,ele,8,regular
+367807030,county_name,Horry,gnis
+367807030,feature_id,2334819,gnis
+367807030,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807030,reviewed,no,gnis
+367807030,name,Myrtle Beach Police Department - Administrative Division,regular
+367807030,source,USGS Geonames,regular
+367807219,state,SC,addr
+367807219,amenity,police,regular
+367807219,ele,9,regular
+367807219,county_name,Horry,gnis
+367807219,feature_id,2334987,gnis
+367807219,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807219,reviewed,no,gnis
+367807219,name,Ted C. Collins Law Enforcement Center,regular
+367807219,source,USGS Geonames,regular
+367807464,state,SC,addr
+367807464,amenity,townhall,regular
+367807464,ele,10,regular
+367807464,county_name,Horry,gnis
+367807464,feature_id,1243839,gnis
+367807464,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807464,reviewed,no,gnis
+367807464,name,Myrtle Beach City Hall,regular
+367807464,source,USGS Geonames,regular
+367807560,state,SC,addr
+367807560,ele,6,regular
+367807560,county_name,Horry,gnis
+367807560,feature_id,2489950,gnis
+367807560,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807560,reviewed,no,gnis
+367807560,leisure,sports_centre,regular
+367807560,name,Canal Street Recreation Center,regular
+367807560,source,USGS Geonames,regular
+367807833,state,SC,addr
+367807833,ele,7,regular
+367807833,county_name,Horry,gnis
+367807833,feature_id,2490434,gnis
+367807833,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807833,reviewed,no,gnis
+367807833,name,Childrens Museum of South Carolina,regular
+367807833,source,USGS Geonames,regular
+367807833,tourism,museum,regular
+367807846,state,SC,addr
+367807846,ele,4,regular
+367807846,county_name,Horry,gnis
+367807846,feature_id,2490433,gnis
+367807846,import_uuid,57871b70-0100-4405-bb30-88b2e001a944,gnis
+367807846,reviewed,no,gnis
+367807846,name,The Franklin G Burroughs - Simeon B Chapin Art Museum,regular
+367807846,source,USGS Geonames,regular
+367807846,tourism,museum,regular
+458379271,highway,traffic_signals,regular
+458379271,traffic_signals,signal,regular
+507683679,highway,traffic_signals,regular
+507683679,traffic_signals,signal,regular
+507683928,highway,traffic_signals,regular
+507683928,traffic_signals,signal,regular
+507684070,highway,traffic_signals,regular
+507684070,traffic_signals,signal,regular
+514074477,highway,traffic_signals,regular
+514074477,traffic_signals,signal,regular
+559158239,highway,turning_circle,regular
+559158254,highway,turning_circle,regular
+560900700,highway,traffic_signals,regular
+560900700,traffic_signals,signal,regular
+560900706,highway,traffic_signals,regular
+560900706,traffic_signals,signal,regular
+561013534,highway,traffic_signals,regular
+561013534,traffic_signals,signal,regular
+561014736,highway,traffic_signals,regular
+561014736,traffic_signals,signal,regular
+561014737,highway,traffic_signals,regular
+561014737,traffic_signals,signal,regular
+564535828,highway,traffic_signals,regular
+564535828,traffic_signals,signal,regular
+564543924,highway,traffic_signals,regular
+564543924,traffic_signals,signal,regular
+564543925,highway,traffic_signals,regular
+564543925,traffic_signals,signal,regular
+568203874,name,Carver Apartments,regular
+568203874,place,neighbourhood,regular
+568203889,name,Booker T. Washington,regular
+568203889,place,neighbourhood,regular
+568203901,name,Futrell Park,regular
+568203901,place,hamlet,regular
+587590549,name,Pelican Harbor,regular
+587590549,place,neighbourhood,regular
+587590816,name,Intercoastal Acres,regular
+587590816,place,neighbourhood,regular
+587591131,name,Monticello Park,regular
+587591131,place,neighbourhood,regular
+587592335,name,Foxcroft,regular
+587592335,place,neighbourhood,regular
+587592592,name,Sandygate,regular
+587592592,place,neighbourhood,regular
+587594667,name,Carrie May Johnson,regular
+587594667,place,neighbourhood,regular
+587594836,name,Oak Hill,regular
+587594836,place,neighbourhood,regular
+587595042,name,Harlem,regular
+587595042,place,neighbourhood,regular
+611409252,highway,traffic_signals,regular
+611409252,traffic_signals,signal,regular
+838034862,name,Piggly Wiggly,regular
+838034862,shop,supermarket,regular
+838034883,highway,traffic_signals,regular
+838034883,traffic_signals,signal,regular
+838035174,amenity,cinema,regular
+838035174,name,Grand 14,regular
+927740079,highway,traffic_signals,regular
+942221541,highway,traffic_signals,regular
+942221541,traffic_signals,signal,regular
+942221542,highway,traffic_signals,regular
+942221542,traffic_signals,signal,regular
+942221545,highway,traffic_signals,regular
+942221545,traffic_signals,signal,regular
+942221550,highway,traffic_signals,regular
+942221550,traffic_signals,signal,regular
+1133939810,name,Jonathan Harbour,regular
+1133939810,tourism,hotel,regular
+1233726579,name,Red Roof Inn,regular
+1233726579,tourism,motel,regular
+1234828408,highway,traffic_signals,regular
+1234828408,traffic_signals,signal,regular
+1272113837,railway,level_crossing,regular
+1297274700,highway,traffic_signals,regular
+1297274700,traffic_signals,signal,regular
+1298456657,amenity,fountain,regular
+1298456661,leisure,garden,regular
+1298456661,name,Valor Memorial Garden,regular
+1298456666,amenity,fountain,regular
+1298456673,amenity,fountain,regular
+1315155213,highway,traffic_signals,regular
+1315155213,traffic_signals,signal,regular
+1315155222,highway,traffic_signals,regular
+1315155222,traffic_signals,signal,regular
+1315155236,highway,traffic_signals,regular
+1315155236,traffic_signals,signal,regular
+1315155238,highway,traffic_signals,regular
+1315155238,traffic_signals,signal,regular
+1332875659,railway,level_crossing,regular
+1332880755,railway,level_crossing,regular
+1376820403,barrier,gate,regular
+1376820413,historic,monument,regular
+1376820413,name,Warbird Park,regular
+1376828143,historic,monument,regular
+1376828143,name,Warbird Park,regular
+1376831056,amenity,parking,regular
+1376831073,amenity,parking,regular
+1376966095,highway,traffic_signals,regular
+1376966095,traffic_signals,signal,regular
+1489870631,fixme,continues,regular
+1491601476,amenity,shelter,regular
+1491601479,amenity,toilets,regular
+1491603594,shop,gift,regular
+1491603629,shop,convenience,regular
+1491732072,amenity,toilets,regular
+1537259439,highway,turning_circle,regular
+1641441189,highway,traffic_signals,regular
+1641441189,traffic_signals,signal,regular
+1641441196,highway,traffic_signals,regular
+1641441196,traffic_signals,signal,regular
+1668174978,highway,traffic_signals,regular
+1668174978,traffic_signals,signal,regular
+1668174980,highway,traffic_signals,regular
+1668174980,traffic_signals,signal,regular
+1668175044,highway,traffic_signals,regular
+1668175044,traffic_signals,signal,regular
+1687819908,highway,traffic_signals,regular
+1687819908,traffic_signals,signal,regular
+1724813406,highway,traffic_signals,regular
+1724813406,traffic_signals,signal,regular
+1727227211,highway,traffic_signals,regular
+1727227211,traffic_signals,signal,regular
+1727227215,highway,traffic_signals,regular
+1727227215,traffic_signals,signal,regular
+1727229221,amenity,fountain,regular
+1727229221,source,Bing,regular
+1758715676,railway,level_crossing,regular
+1758715687,railway,level_crossing,regular
+1758715783,railway,level_crossing,regular
+1768238430,highway,traffic_signals,regular
+1768238430,traffic_signals,signal,regular
+1768758097,highway,traffic_signals,regular
+1768758097,traffic_signals,signal,regular
+1779936482,highway,traffic_signals,regular
+1779936482,traffic_signals,signal,regular
+1794761051,highway,traffic_signals,regular
+1794761051,traffic_signals,signal,regular
+1795145241,highway,traffic_signals,regular
+1795145241,traffic_signals,signal,regular
+1855144932,amenity,fuel,regular
+1855144932,name,Exxon,regular
+1855144943,name,Express Mart,regular
+1855144943,shop,convenience,regular
+1864290192,amenity,bar,regular
+1864290192,name,Barrel,regular
+1905120464,highway,turning_circle,regular
+1905120506,highway,turning_circle,regular
+1905120552,highway,turning_circle,regular
+1905120554,highway,turning_circle,regular
+1905120576,highway,turning_circle,regular
+1905120580,highway,turning_circle,regular
+1905120676,highway,turning_circle,regular
+1905120684,highway,turning_circle,regular
+1905120689,highway,turning_circle,regular
+1905120740,highway,turning_circle,regular
+1905120754,highway,turning_circle,regular
+1905120757,highway,turning_circle,regular
+1905120765,highway,turning_circle,regular
+1905120812,highway,turning_circle,regular
+1905120829,highway,turning_circle,regular
+1905120845,highway,turning_circle,regular
+1905120887,highway,turning_circle,regular
+1905120902,highway,turning_circle,regular
+1905120908,highway,turning_circle,regular
+1905120915,highway,turning_circle,regular
+1905121005,highway,turning_circle,regular
+1905121012,highway,turning_circle,regular
+1905121017,highway,turning_circle,regular
+1905121058,highway,turning_circle,regular
+1905121101,highway,turning_circle,regular
+1905121142,highway,turning_circle,regular
+1905121145,highway,turning_circle,regular
+1905121297,highway,turning_circle,regular
+1905121383,highway,turning_circle,regular
+1905121396,highway,turning_circle,regular
+1905121448,highway,turning_circle,regular
+1905121549,highway,turning_circle,regular
+1905121619,highway,turning_circle,regular
+1905121763,highway,turning_circle,regular
+1905121789,highway,turning_circle,regular
+1905121832,highway,turning_circle,regular
+1910205430,highway,turning_circle,regular
+1922008082,highway,turning_circle,regular
+1922008084,highway,turning_circle,regular
+2023656494,highway,turning_circle,regular
+2023656512,highway,turning_circle,regular
+2023656546,highway,turning_circle,regular
+2023656566,highway,turning_circle,regular
+2023656614,highway,turning_circle,regular
+2332524051,housenumber,743,addr
+2332524051,postcode,29577,addr
+2332524051,street,Hemlock Avenue,addr
+2332524051,amenity,school,regular
+2332524051,name,Horry-Georgetown Technical College,regular
+2356835286,city,"Myrtle Beach, SC",addr
+2356835286,housenumber,1701,addr
+2356835286,postcode,29577,addr
+2356835286,street,North Oak Street,addr
+2356835286,name,Filiberto Law Firm PC,regular
+2356835286,phone,843-839-2526,regular
+2356835286,website,http://www.myrtlebeachattorneyatlaw.com,regular
+2625018011,name,Myrtle Beach Convention Center,regular
+2625018015,amenity,bank,regular
+2625018015,name,BB&T,regular
+2625018210,name,Greene's,regular
+2625018210,shop,alcohol,regular
+2699312647,highway,turning_circle,regular
+2699312650,highway,turning_circle,regular
+2700411758,name,Food Lion,regular
+2700411758,shop,supermarket,regular
+2700411778,highway,traffic_signals,regular
+2700411778,traffic_signals,signal,regular
+2700411779,highway,traffic_signals,regular
+2700411779,traffic_signals,signal,regular
+2700411781,highway,traffic_signals,regular
+2700411781,traffic_signals,signal,regular
+2700411782,highway,traffic_signals,regular
+2700411782,traffic_signals,signal,regular
+2700431727,amenity,fuel,regular
+2700431727,name,Shell,regular
+2700431942,highway,turning_circle,regular
+2700431943,highway,turning_circle,regular
+2700474724,highway,traffic_signals,regular
+2700474724,traffic_signals,signal,regular
+2700474725,highway,traffic_signals,regular
+2700474725,traffic_signals,signal,regular
+2700474775,highway,turning_circle,regular
+2700474817,highway,turning_circle,regular
+2700474856,highway,turning_circle,regular
+2700474865,highway,turning_circle,regular
+2700474872,highway,turning_circle,regular
+2700474909,highway,traffic_signals,regular
+2700474909,traffic_signals,signal,regular
+2700474910,highway,traffic_signals,regular
+2700474910,traffic_signals,signal,regular
+2700481016,amenity,toilets,regular
+2700742901,highway,turning_circle,regular
+2700755205,highway,traffic_signals,regular
+2700755205,traffic_signals,signal,regular
+2700766762,highway,turning_circle,regular
+2700766789,amenity,fast_food,regular
+2700766789,cuisine,burger,regular
+2700766789,name,McDonald's,regular
+2707995085,highway,turning_circle,regular
+2722760428,amenity,restaurant,regular
+2722760428,name,Oceanfront Bar & Grill,regular
+2722760429,amenity,cafe,regular
+2722760429,name,Boardwalk Coffee House,regular
+2722760430,amenity,restaurant,regular
+2722760430,name,The Bowery,regular
+2722760431,amenity,bar,regular
+2722760431,name,Duffy's,regular
+2722760432,name,Zula,regular
+2722760432,shop,gift,regular
+2722760433,amenity,restaurant,regular
+2722760433,name,Peaches Corner,regular
+2722760434,name,Fun Plaza,regular
+2722760434,tourism,attraction,regular
+2722760435,amenity,restaurant,regular
+2722760435,name,Paradise Creamery,regular
+2722760436,name,Paradise Gift Shop,regular
+2722760436,shop,gift,regular
+2722760437,amenity,restaurant,regular
+2722760437,name,Burger Paradise,regular
+2722760438,name,Arcade,regular
+2722760438,tourism,attraction,regular
+2722760439,amenity,restaurant,regular
+2722760439,name,Pizza,regular
+2722760440,name,Henna Tattoos,regular
+2722760440,shop,beauty,regular
+2722760441,name,Gay Dolphin Gift Cove,regular
+2722760441,shop,gift,regular
+2722760441,wikidata,Q5528574,regular
+2722760442,name,University of Rock and Roll,regular
+2722760442,shop,gift,regular
+2722760443,amenity,restaurant,regular
+2722760443,name,Mad Myrtle's Ice Creamery,regular
+2722760497,name,Skywheel,regular
+2722760497,tourism,attraction,regular
+2722760497,wikidata,Q6948606,regular
+2722760497,wikipedia,en:Myrtle Beach SkyWheel,regular
+2722760498,highway,bus_stop,regular
+2722760499,name,The Runway,regular
+2722760499,shop,gift,regular
+2722760500,amenity,restaurant,regular
+2722760500,name,New York Pizza,regular
+2722760501,amenity,bar,regular
+2722760501,name,Karma,regular
+2722760502,name,Beachwear,regular
+2722760502,shop,gift,regular
+2722760503,name,Grasshopper,regular
+2722760503,shop,gift,regular
+2722762870,name,Surf's Up Beach Shop,regular
+2722762870,shop,gift,regular
+2722762871,name,Tsunami Surf & Resort Wear,regular
+2722762871,shop,gift,regular
+2722762872,name,Splish -n- Splash Airbrush,regular
+2722762872,shop,gift,regular
+2722762877,name,Aqua Beach Inn,regular
+2722762877,tourism,hotel,regular
+2722767207,name,Ripley's Believe It or Not Museum,regular
+2722767207,tourism,attraction,regular
+2722767208,name,Bargain Beachwear,regular
+2722767208,shop,gift,regular
+2722767209,name,Kings Beachwear,regular
+2722767209,shop,gift,regular
+2722767210,name,Club Fashion,regular
+2722767210,shop,clothes,regular
+2722767211,name,Beach Bum Beachwear,regular
+2722767211,shop,gift,regular
+2722767212,amenity,restaurant,regular
+2722767212,name,Ocean Grill & Deli,regular
+2722767213,name,Surf's Up,regular
+2722767213,shop,gift,regular
+2722767214,name,Ripley's Haunted Adventure,regular
+2722767214,tourism,attraction,regular
+2722767215,amenity,cinema,regular
+2722767215,name,Ripley's Movie Theater,regular
+2722767216,name,Nightmare Haunted House,regular
+2722767216,tourism,attraction,regular
+2722768498,name,Holiday Pavilion,regular
+2722768498,tourism,hotel,regular
+2722769031,amenity,restaurant,regular
+2722769031,name,Beach House Bar & Grill,regular
+2722769032,name,Blue Bay,regular
+2722769032,tourism,hotel,regular
+2722769033,name,Yachtsman,regular
+2722769033,tourism,hotel,regular
+2722769034,name,Bluegreen,regular
+2722769034,tourism,hotel,regular
+2722769035,name,Yachtsman,regular
+2722769035,tourism,hotel,regular
+2722769040,name,Beach Bums,regular
+2722769040,shop,gift,regular
+2722769041,amenity,restaurant,regular
+2722769041,name,Olympic Flame Pancake House,regular
+2722772916,name,Sea Park,regular
+2722772916,tourism,hotel,regular
+2722772919,name,The Dolphin,regular
+2722772919,tourism,hotel,regular
+2722772946,name,Driftwood,regular
+2722772946,tourism,hotel,regular
+2722772949,name,Roxanne Towers,regular
+2722772949,tourism,hotel,regular
+2722772952,name,Atlantica,regular
+2722772952,tourism,hotel,regular
+2722772959,name,Palmetto Shores Shop,regular
+2722772959,shop,convenience,regular
+2722772979,name,Palmetto Shores,regular
+2722772979,tourism,hotel,regular
+2722772982,name,Atlantica,regular
+2722772982,tourism,hotel,regular
+2722772985,amenity,restaurant,regular
+2722772985,name,The Patio Cafe,regular
+2722777343,amenity,restaurant,regular
+2722777343,name,Sole Italian Restaurant,regular
+2722777346,housenumber,1802,addr
+2722777346,street,North Ocean Boulevard,addr
+2722777346,name,Sandcastle,regular
+2722777346,tourism,hotel,regular
+2722777347,name,Towers,regular
+2722777347,tourism,hotel,regular
+2722778447,name,Camelot By The Sea,regular
+2722778447,tourism,hotel,regular
+2722778448,amenity,cafe,regular
+2722778448,name,Lulu's Cafe,regular
+2722778453,name,Beach Bums,regular
+2722778453,shop,gift,regular
+2722778454,housenumber,2002,addr
+2722778454,street,North Ocean Boulevard,addr
+2722778454,amenity,restaurant,regular
+2722778454,name,Bummz Beach Cafe & Bar,regular
+2722778455,city,Myrtle Beach,addr
+2722778455,housenumber,2006,addr
+2722778455,postcode,29577,addr
+2722778455,state,SC,addr
+2722778455,street,North Ocean Boulevard,addr
+2722778455,name,The Breakers,regular
+2722778455,tourism,hotel,regular
+2722778456,amenity,restaurant,regular
+2722778456,name,Papa's,regular
+2722778457,amenity,cafe,regular
+2722778457,cuisine,coffee_shop,regular
+2722778457,name,Starbucks,regular
+2722778458,amenity,restaurant,regular
+2722778458,name,Ben and Jerry's,regular
+2722778459,name,Odyssey,regular
+2722778459,tourism,hotel,regular
+2722778460,name,Schooner,regular
+2722778460,tourism,hotel,regular
+2722778465,name,Beach View,regular
+2722778465,tourism,motel,regular
+2722778466,name,Beach View,regular
+2722778466,tourism,hotel,regular
+2722781172,name,Boardwalk,regular
+2722781172,tourism,hotel,regular
+2722781179,name,Boardwalk Office,regular
+2722781179,tourism,hotel,regular
+2722781180,name,Sunrise Motel,regular
+2722781180,tourism,motel,regular
+2722781217,name,Dayton House Suites,regular
+2722781217,tourism,hotel,regular
+2722781227,name,Dayton House South,regular
+2722781227,tourism,hotel,regular
+2722781229,name,Dayton House Resort,regular
+2722781229,tourism,hotel,regular
+2722781232,name,Dayton House North,regular
+2722781232,tourism,hotel,regular
+2722781249,name,Carnival,regular
+2722781249,tourism,hotel,regular
+2722781252,name,Palms,regular
+2722781252,tourism,hotel,regular
+2722781255,name,Best Western Plus,regular
+2722781255,operator,Best Western,regular
+2722781255,tourism,hotel,regular
+2722781261,name,Bluegreen,regular
+2722781261,tourism,hotel,regular
+2722781264,name,Sail Inn,regular
+2722781264,tourism,hotel,regular
+2724604566,name,Dynamite Fireworks,regular
+2724604566,shop,yes,regular
+2724604569,name,Carolina RV,regular
+2724604569,shop,car,regular
+2724604572,amenity,car_wash,regular
+2724604572,name,Car Wash,regular
+2724604574,name,Mr. Fireworks,regular
+2724604574,shop,yes,regular
+2724604577,name,Harley Davidson Motorcycles,regular
+2724604577,shop,motorcycle,regular
+2724604580,name,Basebase 17,regular
+2724604580,shop,sports,regular
+2724604583,name,Long Bay Salon,regular
+2724604583,shop,hairdresser,regular
+2724604585,amenity,restaurant,regular
+2724604585,name,The Sportsman Sports Bar & Grill,regular
+2724604588,name,Waller Bears Surf Store,regular
+2724604588,shop,sports,regular
+2724604594,name,Soccer Locker,regular
+2724604594,shop,sports,regular
+2724604597,name,Bay Pawn,regular
+2724604597,shop,yes,regular
+2724604637,amenity,bar,regular
+2724604637,name,City Line Saloon,regular
+2728039568,highway,turning_circle,regular
+2728050987,highway,turning_circle,regular
+2732199788,amenity,fuel,regular
+2732199788,name,Coastal Saver,regular
+2732212442,amenity,fountain,regular
+2732212449,amenity,fountain,regular
+2732212451,amenity,fountain,regular
+2732212488,amenity,fountain,regular
+2732235812,amenity,fuel,regular
+2732235812,name,Kanagroo,regular
+2732235819,amenity,fuel,regular
+2732235819,name,BP,regular
+2732256594,amenity,fuel,regular
+2732256594,name,Exxon,regular
+2732256614,amenity,fuel,regular
+2732256614,name,Sunoco,regular
+2732305235,name,Ocean View Mobile Homes,regular
+2732305235,place,neighbourhood,regular
+2732305236,amenity,restaurant,regular
+2732305236,name,Friendly's Ice Cream Shop,regular
+2732305252,amenity,fuel,regular
+2732305252,name,Mobil,regular
+2732305253,amenity,pharmacy,regular
+2732305253,name,Walgreens,regular
+2732305254,name,Wings,regular
+2732305254,shop,gift,regular
+2732305256,amenity,restaurant,regular
+2732305256,name,Tokyo Japanese Hibatchi and Sushi,regular
+2732305258,amenity,restaurant,regular
+2732305258,name,Calabash Seafood,regular
+2732305259,leisure,miniature_golf,regular
+2732305259,name,Jungle Kingdom Miniature Golf,regular
+2732305263,amenity,bar,regular
+2732305263,name,Murphy's Law Sports Bar,regular
+2732305264,name,Kampgrounds of America Myrtle Beach,regular
+2732305264,tourism,camp_site,regular
+2732305265,amenity,restaurant,regular
+2732305265,name,Ho Wah Chinese Restaurant,regular
+2732305266,name,Pacific Beachwear,regular
+2732305266,shop,gift,regular
+2732305267,amenity,fast_food,regular
+2732305267,cuisine,burger,regular
+2732305267,name,Burger King,regular
+2732305268,amenity,pharmacy,regular
+2732305268,name,CVS,regular
+2732305269,name,Pacific,regular
+2732305269,shop,gift,regular
+2732305270,housenumber,601,addr
+2732305270,street,South Kings Highway,addr
+2732305270,name,Kings Beachwear,regular
+2732305270,shop,gift,regular
+2732305271,amenity,restaurant,regular
+2732305271,name,Aladdin Eastern Cafe,regular
+2732305272,amenity,restaurant,regular
+2732305272,name,Thorny's Steakhouse & Saloon,regular
+2732305273,amenity,restaurant,regular
+2732305273,name,Godfather's Pizza,regular
+2732305274,name,Check 'n Go,regular
+2732305274,office,financial,regular
+2732305275,name,Coin Laundry,regular
+2732305275,shop,laundry,regular
+2732305276,name,Dixie Beverage,regular
+2732305276,shop,alcohol,regular
+2732305281,name,The Smokehouse Hookah Store,regular
+2732305281,shop,yes,regular
+2732305282,name,Go Fast Scooters,regular
+2732305282,shop,motorcycle,regular
+2732305283,amenity,bingo,regular
+2732305283,name,Myrtle Beach Bingo,regular
+2732305284,amenity,restaurant,regular
+2732305284,name,Pizza Romana,regular
+2732305285,amenity,restaurant,regular
+2732305285,name,Villa Romana,regular
+2732305287,amenity,restaurant,regular
+2732305287,name,Denny's,regular
+2732305288,name,Beach Billy's Tobacco Market,regular
+2732305288,shop,yes,regular
+2732305289,amenity,restaurant,regular
+2732305289,cuisine,sandwich,regular
+2732305289,name,Green Grubbin' Salad & Wraps,regular
+2732305289,website,http://greengrubbin.com,regular
+2732305290,name,Pacific Beachwear,regular
+2732305290,shop,gift,regular
+2732305291,amenity,restaurant,regular
+2732305291,name,Shiver Me Pinchers,regular
+2732305292,name,Lauren's Food Mart,regular
+2732305292,shop,convenience,regular
+2732312415,amenity,fuel,regular
+2732312415,name,Hess,regular
+2732312417,amenity,restaurant,regular
+2732312417,name,Pizza Hut,regular
+2732312418,name,Eagles,regular
+2732312418,shop,gift,regular
+2732312420,name,Dollar General,regular
+2732312420,shop,convenience,regular
+2732312422,name,Eagles Beachwear,regular
+2732312422,shop,gift,regular
+2732312424,name,Wings,regular
+2732312424,shop,gift,regular
+2732312425,name,Priscilla McCall's Lingerie,regular
+2732312425,shop,clothes,regular
+2732312427,amenity,fast_food,regular
+2732312427,cuisine,pizza,regular
+2732312427,name,Papa John's,regular
+2732312428,name,Bargain Beachwear,regular
+2732312428,shop,gift,regular
+2732312430,amenity,restaurant,regular
+2732312430,name,Sea Trawler,regular
+2732312431,name,Nails at the Beach,regular
+2732312431,shop,beauty,regular
+2732312433,name,Barber,regular
+2732312433,shop,hairdresser,regular
+2732312434,amenity,restaurant,regular
+2732312434,name,Paradise Pancake & Omelette House,regular
+2732312436,amenity,restaurant,regular
+2732312436,name,Wok Express,regular
+2732312437,amenity,restaurant,regular
+2732312437,name,Captain D's,regular
+2732323896,amenity,restaurant,regular
+2732323896,name,Shoney's,regular
+2732323902,amenity,restaurant,regular
+2732323902,name,IHOP,regular
+2732323906,name,USA Beachwear,regular
+2732323906,shop,gift,regular
+2732323911,amenity,restaurant,regular
+2732323911,name,Pan American Pancake & Omelette House,regular
+2732323916,name,Food Lion,regular
+2732323916,shop,supermarket,regular
+2732323920,name,Big Lots,regular
+2732323920,shop,variety_store,regular
+2732323924,housenumber,1430,addr
+2732323924,street,South Kings Highway,addr
+2732323924,name,Grand Strand Plaza Shopping Center,regular
+2732323924,shop,mall,regular
+2732323930,name,Discount Beachwear,regular
+2732323930,shop,gift,regular
+2732323935,amenity,atm,regular
+2732323935,name,Wells Fargo,regular
+2732323940,amenity,pharmacy,regular
+2732323940,name,Rite Aid,regular
+2732323944,name,Giff's Liquor,regular
+2732323944,shop,alcohol,regular
+2732323950,amenity,restaurant,regular
+2732323950,name,China Chef,regular
+2732336354,amenity,fast_food,regular
+2732336354,name,Nathan's Famous Hotdogs,regular
+2732336355,amenity,fast_food,regular
+2732336355,name,Scoop's Ice Cream,regular
+2732336356,amenity,fuel,regular
+2732336356,name,BP,regular
+2732336357,name,Kangaroo Express,regular
+2732336357,shop,convenience,regular
+2732336358,name,Spa,regular
+2732336358,shop,beauty,regular
+2732336359,amenity,clinic,regular
+2732336359,name,Dunes Urgent Medical Care,regular
+2732336360,amenity,restaurant,regular
+2732336360,name,Plantations House of Pancakes,regular
+2732336361,leisure,miniature_golf,regular
+2732336361,name,Pirate's Watch Adventure Golf,regular
+2732336362,amenity,fast_food,regular
+2732336362,name,Arby's,regular
+2732336363,name,Pacific Beachwear,regular
+2732336363,shop,gift,regular
+2732336364,amenity,restaurant,regular
+2732336364,name,Hungry Howie's Pizza,regular
+2732336365,name,Pacific Beachwear,regular
+2732336365,shop,gift,regular
+2732336366,name,5 Star Beachwear,regular
+2732336366,shop,gift,regular
+2732336367,amenity,fuel,regular
+2732336367,name,Kangaroo,regular
+2732340017,amenity,restaurant,regular
+2732340017,name,Big Daddy's Roadhouse Grill,regular
+2732340018,amenity,fuel,regular
+2732340018,name,Exxon,regular
+2732340020,amenity,fast_food,regular
+2732340020,cuisine,pizza,regular
+2732340020,name,Domino's Pizza,regular
+2732351026,name,Nostalgia,regular
+2732351026,shop,gift,regular
+2732351029,name,City & Museum,regular
+2732351029,shop,gift,regular
+2732351032,name,Whale's Beachwear,regular
+2732351032,shop,gift,regular
+2732351033,amenity,restaurant,regular
+2732351033,name,K&W Cafeteria,regular
+2732351034,amenity,restaurant,regular
+2732351034,name,Angelo's Pizza & Pasta,regular
+2732351035,leisure,miniature_golf,regular
+2732351035,name,Cancun Adventure Golf,regular
+2732351036,amenity,fast_food,regular
+2732351036,name,Dairy Queen,regular
+2732351037,name,Pacific Beachwear,regular
+2732351037,shop,gift,regular
+2732357848,name,Antiques Gallery,regular
+2732357848,shop,yes,regular
+2732357852,name,Teacher's Touch,regular
+2732357852,shop,yes,regular
+2732357863,amenity,fast_food,regular
+2732357863,cuisine,burger,regular
+2732357863,name,McDonald's,regular
+2732357867,name,Quick Cash Pawn,regular
+2732357867,shop,yes,regular
+2732357870,amenity,bar,regular
+2732357870,name,Daisy Country Saloon,regular
+2732357873,amenity,restaurant,regular
+2732357873,name,Waffle House,regular
+2732357877,leisure,miniature_golf,regular
+2732357877,name,Jurrassic Golf,regular
+2732376186,name,Dollar General,regular
+2732376186,shop,convenience,regular
+2732376187,name,ABC Liquour,regular
+2732376187,shop,alcohol,regular
+2732376188,name,Beall Real Estate Group,regular
+2732376188,office,estate_agent,regular
+2732376189,name,Myrtle Grand Vacations,regular
+2732376189,shop,travel_agency,regular
+2732376190,name,Myrtle Beach Flea Market,regular
+2732376190,shop,variety_store,regular
+2732378084,name,Graham Golf Cars,regular
+2732378084,shop,car,regular
+2732378086,name,Beachwood,regular
+2732378086,place,hamlet,regular
+2732380368,highway,traffic_signals,regular
+2732380368,traffic_signals,signal,regular
+2737577680,amenity,fuel,regular
+2737577743,man_made,water_tower,regular
+2782650537,highway,traffic_signals,regular
+2782650537,traffic_signals,signal,regular
+2782651083,highway,traffic_signals,regular
+2782651083,traffic_signals,signal,regular
+2782651319,highway,traffic_signals,regular
+2782651319,traffic_signals,signal,regular
+2782656854,highway,traffic_signals,regular
+2782656854,traffic_signals,signal,regular
+2782656862,highway,traffic_signals,regular
+2782656862,traffic_signals,signal,regular
+2782656866,amenity,fuel,regular
+2819106277,amenity,place_of_worship,regular
+2819106277,name,Socastee Baptist Church,regular
+2819106277,religion,christian,regular
+2819106283,name,Northgate Auto Repair & Tire,regular
+2819106283,shop,car_repair,regular
+2819106284,name,Used Car Lot,regular
+2819106285,name,Super 8 Myrtle Beach/Market Common Area,regular
+2819106285,tourism,motel,regular
+2819106286,amenity,pharmacy,regular
+2819106286,name,CVS Pharmacy,regular
+2910292615,city,Myrtle Beach,addr
+2910292615,housenumber,"2000, Space 195",addr
+2910292615,postcode,29577,addr
+2910292615,street,Coastal Grand Circle,addr
+2910292615,name,REEDS Jewelers - Coastal Grand Mall,regular
+2910292615,bitcoin,yes,payment
+2910292615,phone,(843) 626-3588,regular
+2910292615,shop,jewelry,regular
+2910292615,source,http://finance.yahoo.com/news/reeds-jewelers-now-accepting-bitcoin-120000388.html,regular
+2910292615,website,http://www.reeds.com/,regular
+3023822869,name,Coachman,regular
+3023822869,shop,convenience,regular
+3137668424,amenity,fast_food,regular
+3137668424,cuisine,burger,regular
+3137668424,name,Hardee's,regular
+3137681035,highway,traffic_signals,regular
+3137681035,traffic_signals,signal,regular
+3137681036,highway,traffic_signals,regular
+3137681036,traffic_signals,signal,regular
+3137681052,highway,traffic_signals,regular
+3137681052,traffic_signals,signal,regular
+3137681053,highway,traffic_signals,regular
+3137681053,traffic_signals,signal,regular
+3170856583,amenity,restaurant,regular
+3170856583,cuisine,mexican,regular
+3170856583,name,Abuelo's,regular
+3170858491,amenity,restaurant,regular
+3170858491,name,Nacho Hippo,regular
+3282257359,name,Myrtle Beach,regular
+3282257359,place,city,regular
+3282257359,population,29175,regular
+3282257359,wikidata,Q839805,regular
+3435301881,aeroway,windsock,regular
+3473369770,name,Market Common,regular
+3473369770,shop,department_store,regular
+3473369770,wikidata,Q7750376,regular
+3595598398,amenity,charging_station,regular
+3595598398,nema_5_15,1,socket
+3595598398,source,http://www.plugshare.com,regular
+3595608853,amenity,charging_station,regular
+3595608853,amperage,30,regular
+3595608853,capacity,1,regular
+3595608853,fee,no,regular
+3595608853,opening_hours,24/7,regular
+3595608853,type1,1,socket
+3595608853,source,http://www.plugshare.com,regular
+3595608853,voltage,240,regular
+3600498333,city,Myrtle Beach,addr
+3600498333,housenumber,1501,addr
+3600498333,postcode,29577,addr
+3600498333,state,SC,addr
+3600498333,street,South Ocean Boulevard,addr
+3600498333,name,Landmark Resort,regular
+3600498333,tourism,hotel,regular
+3600986805,attraction,go_karts,regular
+3600986805,name,Go Karts (Figure 8 Track),regular
+3600986805,operator,Family Kingdom Amusement Park,regular
+3600986805,tourism,attraction,regular
+3600986805,website,http://www.familykingdomfun.com/go-karts/figure-8-track/,regular
+3600986839,attraction,go_karts,regular
+3600986839,name,Go Karts (Oval Track),regular
+3600986839,operator,Family Kingdom Amusement Park,regular
+3600986839,tourism,attraction,regular
+3600986839,website,http://www.familykingdomfun.com/go-karts/oval-track/,regular
+3650634469,amenity,charging_station,regular
+3650634469,description,"Wall plug,120v NEMA 5-20 at space reserved for EV use by Hampton Inn hotel guests. Located at the very south end of the second level of the parking garage.",regular
+3650634469,nema_5_20,1,socket
+3650655815,emergency,fire_hydrant,regular
+3650655911,city,Myrtle Beach,addr
+3650655911,housenumber,1801,addr
+3650655911,postcode,29577,addr
+3650655911,state,SC,addr
+3650655911,street,South Ocean Boulevard,addr
+3650655911,name,Hampton Inn & Suites Myrtle Beach/Oceanfront,regular
+3650655911,phone,(843) 946-6400,regular
+3650655911,tourism,hotel,regular
+3650655911,website,http://hamptoninn3.hilton.com/en/hotels/south-carolina/hampton-inn-and-suites-myrtle-beach-oceanfront-MYROFHX/index.html,regular
+3650662273,amenity,charging_station,regular
+3650662273,description,Available for patrons of Best Western. Ask hotel management.,regular
+3650662273,tesla_standard,yes,socket
+3650662273,type1,yes,socket
+3777304888,city,Myrtle Beach,addr
+3777304888,housenumber,1004,addr
+3777304888,postcode,29577,addr
+3777304888,state,SC,addr
+3777304888,street,South Ocean Boulevard,addr
+3777304888,level,6,regular
+3777304888,name,Quality Inn,regular
+3777304888,operator,Choice Hotels,regular
+3777304888,phone,8436264656,regular
+3777304888,smoking,separated,regular
+3777304888,tourism,hotel,regular
+3777320672,city,Myrtle Beach,addr
+3777320672,housenumber,1007,addr
+3777320672,postcode,29577,addr
+3777320672,state,SC,addr
+3777320672,street,South Ocean Boulevard,addr
+3777320672,name,South Seas Resort,regular
+3777320672,tourism,hotel,regular
+3777329274,city,Myrtle Beach,addr
+3777329274,housenumber,1001,addr
+3777329274,state,SC,addr
+3777329274,street,South Ocean Boulevard,addr
+3777329274,name,Poynesian Ocean Front Hotel,regular
+3777329274,tourism,hotel,regular
+3777336184,city,Myrtle Beach,addr
+3777336184,housenumber,1100,addr
+3777336184,postcode,29577,addr
+3777336184,state,SC,addr
+3777336184,street,South Ocean Boulevard,addr
+3777336184,name,Super 8 Myrtle Beach Ocean Drive,regular
+3777336184,operator,Wyndham Hotels & Resorts,regular
+3777336184,tourism,hotel,regular
+3777467657,name,Captain's Quarters Resort,regular
+3777467657,phone,800-743-8572,regular
+3777467657,tourism,hotel,regular
+3787590745,leisure,park,regular
+3787590745,name,A-10 Bicycle Park,regular
+3787763582,building,college,regular
+3787763582,name,Horry Georgetown Technical College Grand Strand Building 100,regular
+3787763591,building,college,regular
+3787763591,name,Horry Georgetown Technical College Grand Strand Building 300,regular
+3787763592,building,college,regular
+3787763592,name,Horry Georgetown Technical College Grand Strand Building 600,regular
+3787763593,building,college,regular
+3787763593,name,Horry Georgetown Technical College Grand Strand Building 100,regular
+3842680594,entrance,main,regular
+3842680595,entrance,main,regular
+3842680596,entrance,main,regular
+3842688294,name,H&M,regular
+3842688294,shop,clothes,regular
+3842698738,amenity,restaurant,regular
+3842698738,name,Texas Roadhouse,regular
+3842712974,entrance,main,regular
+3842726931,amenity,cafe,regular
+3842726931,cuisine,coffee_shop,regular
+3842726931,name,Starbucks,regular
+3842730991,amenity,fast_food,regular
+3842730991,cuisine,chicken,regular
+3842730991,name,Chick-fil-A,regular
+3842731521,amenity,fast_food,regular
+3842731521,cuisine,pizza,regular
+3842731521,name,Sbarro,regular
+3842733431,amenity,fast_food,regular
+3842733431,cuisine,chinese,regular
+3842733431,name,China Express,regular
+3842733432,amenity,fast_food,regular
+3842733432,name,Charley's Grilled Subs,regular
+3842747690,name,GameStop,regular
+3842747690,shop,video_games,regular
+3842750981,name,Payless Shoe Source,regular
+3842750981,shop,shoes,regular
+3842750982,name,Dress Barn,regular
+3842750982,shop,clothes,regular
+3842751698,name,Zales,regular
+3842751698,shop,jewelry,regular
+3842753353,name,f.y.e.,regular
+3842753353,shop,music,regular
+3842757922,name,Lids,regular
+3842757922,shop,hat,regular
+3842775643,name,American Eagle Outfitters,regular
+3842775643,shop,clothes,regular
+3842782366,amenity,fast_food,regular
+3842782366,name,Cinnabon,regular
+3842783063,name,Andy Owings Music Center,regular
+3842783063,shop,musical_instrument,regular
+3842795608,name,Victoria's Secret,regular
+3842795608,shop,clothes,regular
+3842796188,name,Ulta,regular
+3842796188,shop,beauty,regular
+3947863557,highway,traffic_signals,regular
+3947863557,traffic_signals,signal,regular
+4087777743,name,The Breakers Resort,regular
+4087777743,tourism,hotel,regular
+4087777744,name,Sea Gypsy Inn,regular
+4087777744,tourism,motel,regular
+4087777745,name,Blake Motel,regular
+4087777745,tourism,motel,regular
+4087777746,name,Darlington Inn and Cottages,regular
+4087777746,tourism,motel,regular
+4087777747,name,Calypso Motor Inn,regular
+4087777747,tourism,motel,regular
+4087777748,name,Bar Harbor Motor Inn,regular
+4087777748,tourism,hotel,regular
+4087777749,name,Econo Lodge Inn & Suites Beach,regular
+4087777749,tourism,hotel,regular
+4087777750,name,Sea Dunes Oceanfront,regular
+4087777750,tourism,hotel,regular
+4087777751,name,Sea Oats Motel,regular
+4087777751,tourism,hotel,regular
+4087777752,name,3 Palms Oceanfront Myrtle Beach,regular
+4087777752,tourism,hotel,regular
+4087777753,name,Hotel Blue,regular
+4087777753,tourism,hotel,regular
+4087777754,name,Days Inn Grand Strand,regular
+4087777754,tourism,motel,regular
+4087777755,name,Sea Crest Oceanfront Resort,regular
+4087777755,tourism,hotel,regular
+4087777756,name,Frederick Motel,regular
+4087777756,tourism,motel,regular
+4087777757,name,Sea Mist Oceanfront Resort,regular
+4087777757,tourism,hotel,regular
+4087777758,name,CAM Motel,regular
+4087777758,tourism,motel,regular
+4087777759,name,Blu Atlantic Oceanfront Hotel & Suites,regular
+4087777759,tourism,hotel,regular
+4087777760,name,Beach Club at Montego Inn,regular
+4087777760,tourism,hotel,regular
+4087777761,name,Rodeway Inn & Suites,regular
+4087777761,tourism,motel,regular
+4087777762,name,Days Inn Beach Front,regular
+4087777762,tourism,motel,regular
+4087777763,name,Cabana Inn,regular
+4087777763,tourism,motel,regular
+4087777764,name,Summer Sands Motel,regular
+4087777764,tourism,motel,regular
+4087777765,name,Waikiki Village,regular
+4087777765,tourism,motel,regular
+4087777766,name,Wave Rider Resort,regular
+4087777766,tourism,hotel,regular
+4087783213,name,Twilight Surf Motel,regular
+4087783213,tourism,motel,regular
+4087783214,name,Gazebo Inn,regular
+4087783214,tourism,motel,regular
+4087783215,name,Beach Dunes Motel,regular
+4087783215,tourism,motel,regular
+4087783216,name,The Virginian Motel,regular
+4087783216,tourism,motel,regular
+4087783217,name,Viking Ocean Front Motel,regular
+4087783217,tourism,motel,regular
+4087783218,name,Summer Wind Inn & Suites,regular
+4087783218,tourism,motel,regular
+4087783219,name,Southern Breeze Motel,regular
+4087783219,tourism,motel,regular
+4087783220,name,Hurl Rock Motel,regular
+4087783220,tourism,motel,regular
+4087869196,name,Grand Atlantic Ocean Resort,regular
+4087869196,tourism,hotel,regular
+4087869197,name,The Reef at South Beach,regular
+4087869197,tourism,hotel,regular
+4087869198,name,Paradise Resort,regular
+4087869198,tourism,hotel,regular
+4087869199,name,Mystic Sea Resort,regular
+4087869199,tourism,hotel,regular
+4087869200,name,Sandcastle South Beach Resort,regular
+4087869200,tourism,hotel,regular
+4087869201,name,Indigo Inn,regular
+4087869201,tourism,hotel,regular
+4087869202,name,Sea Banks Motor Inn,regular
+4087869202,tourism,motel,regular
+4087869203,housenumber,2311,addr
+4087869203,postcode,25977,addr
+4087869203,street,South Ocean Boulevard,addr
+4087869203,name,Compass Cove Oceanfront Resort,regular
+4087869203,tourism,hotel,regular
+4087869204,name,Affordable Family Resort,regular
+4087869204,tourism,hotel,regular
+4087869205,name,Holiday Sands South,regular
+4087869205,tourism,hotel,regular
+4087869206,name,Regency Towers,regular
+4087869206,tourism,hotel,regular
+4087869207,name,Boulevard Motel,regular
+4087869207,tourism,motel,regular
+4087869208,name,Golden Sands Motel,regular
+4087869208,tourism,motel,regular
+4087869209,name,Holiday South Motel,regular
+4087869209,tourism,motel,regular
+4087869210,name,Majestic Shores,regular
+4087869210,tourism,motel,regular
+4087869211,name,Vancouver Motel,regular
+4087869211,tourism,motel,regular
+4087869212,name,Sun N Sand Resort,regular
+4087869212,tourism,hotel,regular
+4087869213,name,Ocean Blue Resort by Myrtle Beach Vacations,regular
+4087869213,tourism,hotel,regular
+4087869214,name,Super 8 Myrtle Beach/Ocean Front,regular
+4087869214,tourism,motel,regular
+4087869215,name,El Dorado Motel,regular
+4087869215,tourism,motel,regular
+4087869216,name,Red Carpet Inn & Suites,regular
+4087869216,tourism,motel,regular
+4087869217,name,Sea Hawk Motel Myrtle Beach,regular
+4087869217,tourism,hotel,regular
+4087869218,name,Sea Horn Motel,regular
+4087869218,tourism,hotel,regular
+4087869219,name,Tropical Seas Hotel,regular
+4087869219,tourism,hotel,regular
+4087869220,name,Crown Reef Beach Resort and Waterpark,regular
+4087869220,tourism,hotel,regular
+4087871248,name,Holiday Inn Club Vacations Myrtle Beach - South Beach,regular
+4087871248,tourism,hotel,regular
+4087871249,name,Springmaid Beach Resort & Conference Center,regular
+4087871249,tourism,hotel,regular
+4087904987,name,Hilton Garden Inn Myrtle Beach/Coastal Grand Mall,regular
+4087904987,tourism,hotel,regular
+4101693122,city,Myrtle Beach,addr
+4101693122,housenumber,1600,addr
+4101693122,postcode,29577,addr
+4101693122,state,SC,addr
+4101693122,street,North Oak Street,addr
+4101693122,unit,B,addr
+4101693122,fax,+1 843 3617048,contact
+4101693122,phone,+1 843 3617549,contact
+4101693122,en,"Motor Vehicle Accidents, Premises Liability, Personal Injury, Workers Compensation, Serious Injury, Wrongful Death, Nursing Home Negligence",description
+4101693122,name,Maguire Law Firm,regular
+4101693122,opening_hours,24/7,regular
+4101693122,website,http://maguirelawfirm.com/,regular
+4182405806,name,Oak Forest,regular
+4182405806,place,neighbourhood,regular
+4215571066,city,Myrtle Beach,addr
+4215571066,housenumber,707,addr
+4215571066,postcode,29577,addr
+4215571066,state,SC,addr
+4215571066,street,North Kings Highway,addr
+4215571066,alt_name,Mt. Atlanticus Miniature Golf,regular
+4215571066,leisure,golf_course,regular
+4215571066,name,Mount Atlanticus Miniature Golf,regular
+4215571066,phone,+1 843-444-1008,regular
+4215571066,website,http://myrtlebeachminigolf.com/,regular
+4267556060,name,Market Common District,regular
+4267556060,place,suburb,regular
+4267559484,name,Withers Swash,regular
+4267559484,place,neighbourhood,regular
+4267589842,highway,turning_circle,regular
+4267589852,highway,turning_circle,regular
+4267600960,highway,traffic_signals,regular
+4267600960,traffic_signals,signal,regular
+4267659023,name,Cape Landing,regular
+4267659023,place,neighbourhood,regular
+4268981766,name,Balmoral,regular
+4268981766,place,neighbourhood,regular
+4268981767,name,Withers Preserve,regular
+4268981767,place,neighbourhood,regular
+4268981768,name,Emmens Preserve,regular
+4268981768,place,neighbourhood,regular
+4268981769,name,Cresswind,regular
+4268981769,place,neighbourhood,regular
+4269199777,railway,level_crossing,regular
+4269199778,railway,level_crossing,regular
+4269199807,railway,level_crossing,regular
+4269199821,railway,level_crossing,regular
+4304254152,railway,level_crossing,regular
+4304254156,railway,level_crossing,regular
+4304254159,railway,level_crossing,regular
+4304254162,railway,level_crossing,regular
+4304255651,highway,traffic_signals,regular
+4304255651,traffic_signals,signal,regular
+4304255652,highway,traffic_signals,regular
+4304255652,traffic_signals,signal,regular
+4304255673,highway,traffic_signals,regular
+4304255673,traffic_signals,signal,regular
+4354648532,city,Myrtle Beach,addr
+4354648532,housenumber,1317 N,addr
+4354648532,postcode,29577,addr
+4354648532,state,SC,addr
+4354648532,street,Kings Hwy,addr
+4354648532,amenity,dentist,regular
+4354648532,name,Oceanside Dental,regular
+4354648532,opening_hours,Mon-Fri 8-5,regular
+4368974393,amenity,bus_station,regular
+4375575652,highway,traffic_signals,regular
+4375575652,traffic_signals,signal,regular
+4375575663,highway,traffic_signals,regular
+4375575663,traffic_signals,signal,regular
+4377404000,highway,turning_circle,regular
+4385891511,highway,traffic_signals,regular
+4385891511,traffic_signals,signal,regular
+4385891515,highway,traffic_signals,regular
+4385891515,traffic_signals,signal,regular
+4397693408,highway,traffic_signals,regular
+4397693408,traffic_signals,signal,regular
+4397715551,highway,traffic_signals,regular
+4397715551,traffic_signals,signal,regular
+4409738835,amenity,community_centre,regular
+4409738835,name,Racepath Community Center,regular
+4409738837,leisure,pitch,regular
+4409738837,sport,baseball,regular
+4449308502,name,Villages of Arrowhead,regular
+4449308502,place,hamlet,regular
+4449308503,name,Flintlake,regular
+4449308503,place,neighbourhood,regular
+4449308512,name,Sandalwood,regular
+4449308512,place,neighbourhood,regular
+4449308513,name,Limestone,regular
+4449308513,place,neighbourhood,regular
+4449308514,name,Starrpoint,regular
+4449308514,place,neighbourhood,regular
+4449308515,name,Claypoint,regular
+4449308515,place,neighbourhood,regular
+4449308528,name,Sandstone,regular
+4449308528,place,neighbourhood,regular
+4449308529,name,Copperpoint,regular
+4449308529,place,neighbourhood,regular
+4449308530,name,Silverlake,regular
+4449308530,place,neighbourhood,regular
+4449308531,name,Riverwalk,regular
+4449308531,place,neighbourhood,regular
+4449308532,name,Arrowhead Grand,regular
+4449308532,place,neighbourhood,regular
+4449308545,name,Longwood Lakes,regular
+4449308545,place,neighbourhood,regular
+4449308546,name,Arrowhead Pointe,regular
+4449308546,place,neighbourhood,regular
+4449308557,name,Whispering Pines Estates,regular
+4449308557,place,neighbourhood,regular
+4449308558,name,Villas Garden,regular
+4449308558,place,neighbourhood,regular
+4449308559,name,Highland Woods,regular
+4449308559,place,neighbourhood,regular
+4449308560,name,Highland Ridge,regular
+4449308560,place,neighbourhood,regular
+4464109582,name,Lauderdale Bay,regular
+4464109582,place,neighbourhood,regular
+4464109583,name,Wildwood Ranchettes,regular
+4464109583,place,neighbourhood,regular
+4464109584,name,Watergate,regular
+4464109584,place,neighbourhood,regular
+4464109587,name,Captain's Harbour,regular
+4464109587,place,neighbourhood,regular
+4464109588,name,Harbour Towne,regular
+4464109588,place,neighbourhood,regular
+4464126854,name,Woodlawn MHP,regular
+4464126854,place,neighbourhood,regular
+4464126855,name,Stonebridge,regular
+4464126855,place,neighbourhood,regular
+4464126857,name,Kirkeys Court,regular
+4464126857,place,neighbourhood,regular
+4464126858,name,Bonnie's MHP,regular
+4464126858,place,neighbourhood,regular
+4464126859,name,Montgomery MHP,regular
+4464126859,place,neighbourhood,regular
+4464126860,name,Patrick's MHP,regular
+4464126860,place,neighbourhood,regular
+4464126861,name,Myrtle Manor,regular
+4464126861,tourism,yes,regular
+4464126862,name,Pinegrove,regular
+4464126862,place,neighbourhood,regular
+4464126863,name,Brown's MHP,regular
+4464126863,place,neighbourhood,regular
+4464126864,name,Sandridge MHP,regular
+4464126864,place,neighbourhood,regular
+4468050274,highway,traffic_signals,regular
+4468050274,traffic_signals,signal,regular
+4468050275,highway,traffic_signals,regular
+4468050275,traffic_signals,signal,regular
+4468050281,highway,traffic_signals,regular
+4468050281,traffic_signals,signal,regular
+4468073401,highway,traffic_signals,regular
+4468073401,traffic_signals,signal,regular
+4468073409,highway,traffic_signals,regular
+4468073409,traffic_signals,signal,regular
+4468073410,highway,traffic_signals,regular
+4468073410,traffic_signals,signal,regular
+4468142657,name,Eagles Beachwear,regular
+4468142657,shop,gift,regular
+4468142658,name,Firestone,regular
+4468142658,shop,car_repair,regular
+4468142659,amenity,fuel,regular
+4468142659,name,Coastal Petro,regular
+4468142660,name,Sherwin-Williams,regular
+4468142660,shop,paint,regular
+4468142661,name,Hong Kong Supermarket,regular
+4468142661,shop,supermarket,regular
+4468142662,name,Ed's Hobby Shop,regular
+4468142662,shop,yes,regular
+4468142663,name,Royal Cleaners,regular
+4468142663,shop,dry_cleaning,regular
+4468142664,name,Coin Laundry,regular
+4468142664,shop,laundry,regular
+4468142665,name,Army-Navy Store,regular
+4468142665,shop,yes,regular
+4468142666,name,The Parts Store,regular
+4468142666,shop,car_parts,regular
+4468142667,name,Farm Bureau Insurance,regular
+4468142667,office,insurance,regular
+4468142668,name,Coastal Engravers,regular
+4468142668,shop,yes,regular
+4468142669,name,State Farm Insurance,regular
+4468142669,office,insurance,regular
+4468142670,name,One Stop Body Shop,regular
+4468142670,shop,car_repair,regular
+4468142671,name,La Zelle's Flower Shop,regular
+4468142671,shop,florist,regular
+4468142672,name,Beach Bike Shop,regular
+4468142672,shop,bicycle,regular
+4468142673,name,Auto Magic,regular
+4468142673,shop,car_repair,regular
+4468142674,name,Kilgor Trout's,regular
+4468142674,shop,yes,regular
+4468142675,name,Star Music,regular
+4468142675,office,yes,regular
+4468142676,name,A Summer Place,regular
+4468142676,shop,furniture,regular
+4468142677,name,Myrtle Beach Train Depot,regular
+4468142677,railway,station,regular
+4468142679,amenity,nightclub,regular
+4468142679,name,Club There,regular
+4468142680,amenity,nightclub,regular
+4468142680,name,Global Ultra Lounge,regular
+4468142681,craft,photographer,regular
+4468142681,name,Gene Ho Photography,regular
+4468142682,amenity,nightclub,regular
+4468142682,name,Pure Ultra Club,regular
+4468142683,name,X-Con Comics,regular
+4468142683,shop,yes,regular
+4468142684,amenity,restaurant,regular
+4468142684,name,Farlo's Burrito Bar,regular
+4468142685,historic,yes,regular
+4468142685,name,The Basement,regular
+4468142686,amenity,nightclub,regular
+4468142686,name,IBIZA,regular
+4468142687,name,Lovely Law Firm,regular
+4468142687,office,lawyer,regular
+4468142688,name,Myrtle Beach Downtown Redevelopment Corp.,regular
+4468142688,office,yes,regular
+4468143289,name,Antonio's Bakery,regular
+4468143289,shop,bakery,regular
+4468143290,building,yes,regular
+4468143290,name,Downtown Beach Bingo,regular
+4468143291,name,Red Wing Shoe Store,regular
+4468143291,shop,shoes,regular
+4468143292,name,Herald Office Supply,regular
+4468143292,shop,copyshop,regular
+4468143293,amenity,restaurant,regular
+4468143293,name,Mr. Fish Seafood,regular
+4468143294,amenity,cafe,regular
+4468143294,name,Fresh Brewed,regular
+4468143295,name,Christian Tae Kwon Do,regular
+4468143295,shop,yes,regular
+4468143296,amenity,restaurant,regular
+4468143296,name,Maryland Fried Chicken,regular
+4468143297,name,Woody's Barber Shop,regular
+4468143297,shop,hairdresser,regular
+4468143298,amenity,restaurant,regular
+4468143298,name,Mr. Sub,regular
+4468143299,amenity,bureau_de_change,regular
+4468143299,name,Worldwide Coin Shop,regular
+4468143300,amenity,restaurant,regular
+4468143300,name,Mammy's Kitchen,regular
+4468143301,name,Family Dollar,regular
+4468143301,shop,variety_store,regular
+4468143302,amenity,marketplace,regular
+4468143302,name,Farmer's Market,regular
+4468143303,name,Myrtle Beach City Services Building,regular
+4468143303,office,government,regular
+4468143304,name,Fabric Selections,regular
+4468143304,shop,fabric,regular
+4468143305,name,Anthony's Transmission,regular
+4468143305,shop,car_repair,regular
+4468143306,name,Myrtle Beach Chamber of Commerce,regular
+4468143306,office,yes,regular
+4468143307,amenity,fast_food,regular
+4468143307,cuisine,mexican,regular
+4468143307,name,Taco Bell,regular
+4468143308,amenity,restaurant,regular
+4468143308,name,Olive Garden,regular
+4468143309,amenity,restaurant,regular
+4468143309,name,Hot Stacks Pancake House,regular
+4468143310,name,Rent-A-Center,regular
+4468143310,shop,yes,regular
+4468143311,name,Carolina Pottery,regular
+4468143311,shop,yes,regular
+4468143312,name,Axelrod,regular
+4468143312,office,lawyer,regular
+4468143313,name,Piggly Wiggly,regular
+4468143313,shop,supermarket,regular
+4468143314,name,Eagles,regular
+4468143314,shop,yes,regular
+4468143315,amenity,fast_food,regular
+4468143315,cuisine,burger,regular
+4468143315,delivery,no,regular
+4468143315,name,Cook Out,regular
+4468143316,amenity,fast_food,regular
+4468143316,name,Krispy Kreme,regular
+4468143317,amenity,restaurant,regular
+4468143317,name,Shoney's,regular
+4468143318,amenity,restaurant,regular
+4468143318,name,Hooks Calabash Seafood,regular
+4468143319,name,Dollar General,regular
+4468143319,shop,convenience,regular
+4468143320,amenity,restaurant,regular
+4468143320,name,River City Cafe,regular
+4468143321,amenity,restaurant,regular
+4468143321,name,Fuddrucker's,regular
+4468143322,amenity,fast_food,regular
+4468143322,cuisine,burger,regular
+4468143322,name,McDonald's,regular
+4468143323,amenity,fast_food,regular
+4468143323,name,Arby's,regular
+4468376607,name,The Boardwalk on the Waterway,regular
+4468376607,place,neighbourhood,regular
+4468376610,name,AVX,regular
+4468376610,office,company,regular
+4468376624,man_made,tower,regular
+4468376624,type,communication,tower
+4480753298,highway,traffic_signals,regular
+4480753298,traffic_signals,signal,regular
+4480753372,highway,traffic_signals,regular
+4480753372,traffic_signals,signal,regular
+4486210291,highway,turning_circle,regular
+4489135302,highway,traffic_signals,regular
+4489135302,traffic_signals,signal,regular
+4489135303,highway,traffic_signals,regular
+4489135303,traffic_signals,signal,regular
+4489135316,highway,traffic_signals,regular
+4489135316,traffic_signals,signal,regular
+4489135340,highway,traffic_signals,regular
+4489135340,traffic_signals,signal,regular
+4517465606,name,Caribbean Resort,regular
+4517465606,tourism,hotel,regular
+4519493080,highway,traffic_signals,regular
+4519493080,traffic_signals,signal,regular
+4519494554,highway,traffic_signals,regular
+4519494554,traffic_signals,signal,regular
+4519496150,highway,traffic_signals,regular
+4519496150,traffic_signals,signal,regular
+4524982047,highway,traffic_signals,regular
+4524982047,traffic_signals,signal,regular
+4524982048,highway,traffic_signals,regular
+4524982048,traffic_signals,signal,regular
+4524982049,highway,traffic_signals,regular
+4524982049,traffic_signals,signal,regular
+4524982050,highway,traffic_signals,regular
+4524982050,traffic_signals,signal,regular
+4524982051,highway,traffic_signals,regular
+4524982051,traffic_signals,signal,regular
+4524982058,highway,traffic_signals,regular
+4524982058,traffic_signals,signal,regular
+4592513814,city,Myrtle Beach,addr
+4592513814,housenumber,1420,addr
+4592513814,postcode,29577,addr
+4592513814,state,SC,addr
+4592513814,street,Cannon Rd,addr
+4592513814,name,Industrial Rewinding Inc,regular
+4592513814,phone,+1-843-626-3536,regular
+4592513814,website,http://industrialrewindinginc.com,regular
+4685459864,highway,traffic_signals,regular
+4685459864,traffic_signals,signal,regular
+4685459865,highway,traffic_signals,regular
+4685459865,traffic_signals,signal,regular
+4685459866,highway,traffic_signals,regular
+4685459866,traffic_signals,signal,regular
+4685459871,highway,traffic_signals,regular
+4685459871,traffic_signals,signal,regular
+4685459872,highway,traffic_signals,regular
+4685459872,traffic_signals,signal,regular
+4685459876,highway,traffic_signals,regular
+4685459876,traffic_signals,signal,regular
+4988488039,highway,turning_circle,regular
+4988488042,highway,turning_circle,regular
+5032248023,name,The Vinings,regular
+5032248023,place,neighbourhood,regular
+5032248068,city,Myrtle Beach,addr
+5032248068,country,US,addr
+5032248068,full,3650 Walton Drive,addr
+5032248068,housenumber,3650,addr
+5032248068,postcode,29577,addr
+5032248068,state,SC,addr
+5032248068,street,Walton Drive,addr
+5032248068,name,Walmart Neighborhood Market,regular
+5032248068,opening_hours,24/7,regular
+5032248068,operator,Walmart,regular
+5032248068,phone,+1-843-839-9845,regular
+5032248068,walmart,5923,ref
+5032248068,shop,supermarket,regular
+5032248068,website,https://www.walmart.com/store/5923/myrtle-beach-sc/whats-new,regular
+5032248069,amenity,bank,regular
+5032248069,name,Anderson Brothers Bank,regular
+5041104965,fixme,continues,regular
+5041104967,fixme,continues,regular
+5041104968,fixme,continues,regular
+5041104985,fixme,continues,regular
+5041104997,fixme,continues,regular
+5041105016,barrier,gate,regular
+5041130755,barrier,gate,regular
+5041130756,fixme,continues,regular
+5041130758,fixme,continues,regular
+5041130820,barrier,gate,regular
+5041130921,amenity,toilets,regular
+5041130948,amenity,toilets,regular
+5043935553,amenity,toilets,regular
+5043935554,amenity,toilets,regular
+5050064200,city,Myrtle Beach,addr
+5050064200,housenumber,706,addr
+5050064200,postcode,29577,addr
+5050064200,state,SC,addr
+5050064200,street,N Ocean Blvd,addr
+5050064200,amenity,ice_cream,regular
+5050064200,name,sweetFrog,regular
+5050064200,phone,843-443-6108,regular
+5050064200,website,http://sweetfrog.com/locations/store/sweet-frog-north-ocean-blvd-myrtle-beach-sc,regular
+5062142690,city,Myrtle Beach,addr
+5062142690,housenumber,701,addr
+5062142690,postcode,29577,addr
+5062142690,state,SC,addr
+5062142690,street,South Ocean Boulevard,addr
+5062142690,leisure,resort,regular
+5062142690,name,Bali Bay,regular
+5062142690,website,http://www.balibayvacations.com/,regular
+5141981093,amenity,studio,regular
+5141981093,name,WBTW News 13,regular
+5141981094,amenity,restaurant,regular
+5141981094,name,Cici's Pizza,regular
+5141981095,amenity,bank,regular
+5141981095,name,Conway National Bank,regular
+5141981096,amenity,clinic,regular
+5141981096,name,Doctor's Care,regular
+5148415779,amenity,restaurant,regular
+5148415779,name,Waffle House,regular
+5148415780,amenity,restaurant,regular
+5148415780,name,Logan's Roadhouse,regular
+5148415781,amenity,fast_food,regular
+5148415781,cuisine,burger,regular
+5148415781,name,Burger King,regular
+5148415782,amenity,restaurant,regular
+5148415782,name,Sticky Fingers,regular
+5150436442,name,"Ka-Nol Marketing, Inc.",regular
+5315597606,city,Myrtle Beach,addr
+5315597606,country,US,addr
+5315597606,full,1705 South Kings Hwy,addr
+5315597606,housenumber,1705,addr
+5315597606,postcode,29577,addr
+5315597606,state,SC,addr
+5315597606,street,South Kings Highway,addr
+5315597606,name,Walmart Neighborhood Market,regular
+5315597606,opening_hours,24/7,regular
+5315597606,operator,Walmart,regular
+5315597606,phone,+1-843-353-5641,regular
+5315597606,walmart,5367,ref
+5315597606,shop,supermarket,regular
+5315597606,website,https://www.walmart.com/store/5367/myrtle-beach-sc/whats-new,regular
+5366509906,name,Arrowhead Roundabout,regular
