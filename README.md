@@ -1,2 +1,2 @@
 # OpenStreetMap
-Udacity OpenStreetMap project for Data Wrangling
+Udacity OpenStreetMap project for Data Wrangling using SQL
